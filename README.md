@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carvethedegen&style=flat-square" alt="carvethedegen" /> </p>
 
 - 👨‍💻 Visit my site **[https://felon.eth.link](https://felon.eth.link)**
+- 📬 Contact me on discord; carve#0888
 
 <br>
 <h1 align="center">Languages I Use</h1>
