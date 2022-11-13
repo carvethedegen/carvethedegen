@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carvethedegen&style=flat-square" alt="carvethedegen" /> </p>
 
-- 👨‍💻 Visit my site **[https://felon.eth.link](https://felon.eth.link)**
+- 👨‍💻 Visit my site **[https://carvethedegen.com](https://carvethedegen.com)**
 - 📬 Contact me on discord; carve#0888
 
 <br>
