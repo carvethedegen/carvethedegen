@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carvethedegen&style=flat-square" alt="carvethedegen" /> </p>
 
-- 👨‍💻 Visit my site **[https://carvethedegen.com](https://carvethedegen.com)**
-- 📬 Contact me on discord; carve#0888
+- 👨‍💻 Visit my site **[https://thefelon.net](https://carvethedegen.com)**
+- 📬 Contact me on telegram; @brute
 
 <br>
 <h1 align="center">Languages I Use</h1>
