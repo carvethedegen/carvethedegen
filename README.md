@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Felon aka Carve</h1>
-<h3 align="center">I'm an avid developer who is also interested in discord bot development and managing communities!</h3>
+<h3 align="center">I'm an avid developer who is urging for a cat loving ogre.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carvethedegen&style=flat-square" alt="carvethedegen" /> </p>
 
